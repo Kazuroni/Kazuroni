@@ -31,6 +31,4 @@
   
 </div>
 
-![Snake Animation](https://github.com/Kazuroni)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kazuroni&show_icons=true&theme=transparent)
