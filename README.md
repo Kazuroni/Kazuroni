@@ -4,7 +4,7 @@
 - 📖 Estudando na FATEC faculdade de tecnologia PRAIA GRANDE
 - 📈 Desenvolvimento de software Multiplataforma 6/6 🔴
 - 👩‍💻 ETEC Adolpho Berezin Informatica 3/3 ✅
-- 📫 Contate-me no email: chrihka9@gmail.com
+- 📫 Contate-me no email: christyankawamura@gmail.com
 
 
 <div style="display: inline_block"><br>
