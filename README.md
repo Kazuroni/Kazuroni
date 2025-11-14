@@ -1,8 +1,8 @@
 ## Oi eu sou Christyan, estudante de tecnologia e informação
-- 🔭 Hoje estudo C++, PHP, JAVA e Mysql
+- 🔭 Hoje estudo C++, PHP, JAVA, Python, Mysql e muito mais.
 - 📚 Tecnico de Informatica ✅
 - 📖 Estudando na FATEC faculdade de tecnologia PRAIA GRANDE
-- 📈 Desenvolvimento de software Multiplataforma 2/6 🔴
+- 📈 Desenvolvimento de software Multiplataforma 6/6 🔴
 - 👩‍💻 ETEC Adolpho Berezin Informatica 3/3 ✅
 - 📫 Contate-me no email: chrihka9@gmail.com
 
